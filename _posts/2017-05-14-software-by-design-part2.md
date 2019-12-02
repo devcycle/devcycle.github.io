@@ -4,8 +4,6 @@ excerpt: "Abstractions are the way we manage to deliver complex software systems
 apply judiciously."
 layout: single
 comments: true
-categories:
-  - Blog
 tags:
   - functional programming
   - architecture

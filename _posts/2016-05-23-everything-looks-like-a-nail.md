@@ -3,8 +3,6 @@ title: "Everything looks like a nail"
 excerpt: "Everything looks like a nail"
 layout: single
 comments: true
-categories:
-  - Blog
 tags:
   - recruitment
   - microservices

@@ -3,8 +3,6 @@ title: "TDD - That's Design Done"
 excerpt: "... a fine grained tool, and as such should be used where appropriate but it's not a religion."
 layout: single
 comments: true
-categories:
-  - Blog
 tags:
   - Test Driven Development
   - testing

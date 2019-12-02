@@ -3,8 +3,6 @@ title: "Software by Design in a Functional Programming World"
 excerpt: "Behaviour first- Data first class"
 layout: single
 comments: true
-categories:
-  - Blog
 tags:
   - functional programming
   - architecture

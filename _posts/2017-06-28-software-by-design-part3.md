@@ -6,8 +6,6 @@ comments: true
 read_time: true
 share: true
 related: true
-categories:
-  - Blog
 tags:
   - functional programming
   - architecture

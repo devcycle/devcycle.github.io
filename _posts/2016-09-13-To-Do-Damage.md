@@ -3,8 +3,6 @@ title: "To Do Damage (TDD)"
 excerpt: "TDD is one tool... Like all good tools, it has sharp edges and if you misuse it, it can cut you that's not a reason to leave it in the toolbox."
 layout: single
 comments: true
-categories:
-  - Blog
 tags:
   - Test Driven Development
   - testing

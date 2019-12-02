@@ -2,8 +2,6 @@
 type: posts
 title: "'Prop' up your tests with test.check"
 excerpt: "Property based testing (PBT) is a powerful technique that discovers edge cases more thoroughly than traditional 'example' based testing"
-categories:
-  - Blog
 tags:
   - testing
   - clojure
