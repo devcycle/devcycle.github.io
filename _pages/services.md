@@ -14,6 +14,7 @@ Our services include consultancy on, but not limited to, the following:
   - Scala
   - Javascript
   - Ruby/Rails
+  - Python
 * Software Development Process
   - Continuous Integration/Delivery
   - Test Driven Development
@@ -33,7 +34,7 @@ Our services include consultancy on, but not limited to, the following:
   - Graph Databases (Neo4J)
   - Document Databases (MongoDB, CouchDB)
   - AWS - SNS, SQS, ECS, EC2, S3, CloudWatch
-  - Containerisation (Docker)
+  - Containerisation/Orchestration (Docker/Kubernetes)
 * Agile/Lean Coaching:
   - SCRUM
   - XP (pair programming, TDD, XP planning)
